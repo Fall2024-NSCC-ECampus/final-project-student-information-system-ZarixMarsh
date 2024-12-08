@@ -1,0 +1,8 @@
+# ninja log v6
+6	466	7536881217441320	CMakeFiles/Final_Project.dir/main.cpp.obj	ee4a40bf107fc0eb
+599	688	7536899723636321	Final_Project.exe	2f3d00e41111a377
+5	212	7553125161291949	build.ninja	d6283d32febbdb81
+5	599	7536899717695896	CMakeFiles/Final_Project.dir/StudentInformationSystem.cpp.obj	6ade4f211fda2b54
+5	367	7536873355478357	CMakeFiles/Final_Project.dir/Student.cpp.obj	2d83da99e7cceb66
+7	823	7553823681940740	CMakeFiles/Final_Project.dir/StudentInformationSystem.cpp.obj	6ade4f211fda2b54
+824	1016	7553823690109189	Final_Project.exe	2f3d00e41111a377
